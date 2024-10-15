@@ -1,80 +1,44 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Felipe Rodrigues - GitHub README</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f0f0f0;
-        }
-        .container {
-            background-color: #fff;
-            border-radius: 10px;
-            padding: 30px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        h1 {
-            color: #2c3e50;
-            border-bottom: 2px solid #3498db;
-            padding-bottom: 10px;
-        }
-        h2 {
-            color: #2980b9;
-        }
-        ul {
-            list-style-type: none;
-            padding-left: 0;
-        }
-        li {
-            margin-bottom: 10px;
-            display: flex;
-            align-items: center;
-        }
-        li::before {
-            content: "•";
-            color: #3498db;
-            font-size: 1.5em;
-            margin-right: 10px;
-        }
-        .highlight {
-            background-color: #e74c3c;
-            color: #fff;
-            padding: 2px 5px;
-            border-radius: 3px;
-            font-weight: bold;
-        }
-        .contact {
-            background-color: #2ecc71;
-            color: #fff;
-            padding: 10px;
-            border-radius: 5px;
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>👋 Hi, I'm Felipe Rodrigues</h1>
-        
-        <h2>About Me</h2>
-        <ul>
-            <li>👨🏻‍💻 Front-end web programming and digital game programming student</li>
-            <li>🌱 Currently learning <span class="highlight">JavaScript</span>, <span class="highlight">HTML</span>, and <span class="highlight">CSS</span></li>
-            <li>💞️ Looking for collaborators on small web projects</li>
-            <li>📚 Studying at <strong>Etec of Peruíbe</strong> - High School with Professional Qualification as a Digital Game Programming Technician</li>
-        </ul>
-        
-        <div class="contact">
-            <h2>📫 How to reach me</h2>
-            <p>Feel free to contact me via iCloud: <a href="mailto:soaresrodriguesf07@icloud.com">soaresrodriguesf07@icloud.com</a></p>
-        </div>
-    </div>
-</body>
-</html>
+# Felipe Rodrigues 👨‍💻
+
+[![Profile Views](https://komarev.com/ghpvc/?username=frodrigss&color=blueviolet)](https://github.com/frodrigss)
+[![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=flat&logo=iCloud&logoColor=white)](mailto:soaresrodriguesf07@icloud.com)
+
+## 🚀 About Me
+
+Passionate front-end web and digital game programming student, constantly exploring the realms of technology and creativity. Currently honing my skills in JavaScript, HTML, and CSS while pursuing my studies at **Etec of Peruíbe**.
+
+### 🎓 Education
+
+- **Etec of Peruíbe**
+  - High School with Professional Qualification as a Digital Game Programming Technician
+
+## 💻 Technical Skills
+
+```javascript
+const skills = {
+  languages: ['JavaScript', 'HTML', 'CSS'],
+  frameworks: ['Learning...'],
+  tools: ['Git', 'VS Code', 'Cursor'],
+  interests: ['Web Development', 'Game Development']
+};
+```
+
+## 🌱 Current Focus
+
+- Advancing my knowledge in front-end technologies
+- Exploring the intricacies of game development
+- Seeking collaborators for small web projects
+
+## 📊 GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=frodrigss&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Felipe's GitHub Stats" />
+
+## 📫 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
+
+- 📧 Email: [soaresrodriguesf07@icloud.com](mailto:soaresrodriguesf07@icloud.com)
+
+---
+
+<p align="center">💼 Open to internships and junior developer positions 💼</p>
