@@ -3,11 +3,11 @@
 ### 🎯 Who Am I?
 
 <p align="justify">
-Hi! I'm a dedicated front-end developer and digital game programming enthusiast. <br>
+Hi! I'm a dedicated front-end developer and digital game programming enthusiast.<br>
 Currently pursuing a Technical in Digital Game Programming at Etec de Peruíbe.<br> 
-I continuously explore new technologies and strive to express my creativity 🧶. <br>
-Whether building responsive web applications or developing immersive games, I <br>
-aim to blend functionality with aesthetic design.
+I continuously explore new technologies and strive to express my creativity 🧶<br>
+Whether building responsive web applications or developing immersive games,<br>
+I aim to blend functionality with aesthetic design.
 </p>
 
 > *"Code is poetry, and I'm here to write some epic verses! 🚀"*
