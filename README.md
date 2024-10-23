@@ -14,21 +14,19 @@ I'm a coding enthusiast who's super passionate about crafting awesome digital ex
 ### 🎓 Education Journey
 - 📚 **Etec of Peruíbe**
   - High School + Digital Game Programming Technical Degree
-  - Expected Graduation: 2024
+  - Expected Graduation: 2026
 
 ## 🛠️ Tech Arsenal
 
 ```javascript
 const Felipe = {
-    code: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
+    languages: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
     tools: {
-        frontend: ['React', 'Next.js', 'Tailwind CSS'],
+        frontend: ['React', 'Tailwind CSS'],
         gamedev: ['Unity', 'C#'],
-        design: ['Figma', 'Adobe XD'],
-        other: ['Git', 'VS Code', 'Webpack']
+        other: ['Git', 'VS Code', 'Cursor']
     },
-    currentlyLearning: ['Three.js', 'WebGL', 'Advanced React Patterns'],
-    passions: ['Clean Code', 'Responsive Design', 'Game Mechanics', 'UI/UX'],
+    passions: ['Clean Code', 'Responsive design', 'Game mechanics'],
     funFact: "I can turn coffee into code! ☕→💻"
 };
 ```
