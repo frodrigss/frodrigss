@@ -14,13 +14,13 @@ I aim to blend functionality with aesthetic design.</i>
 
 ## 🎓 Education Journey
 
-
+  
 - 📚 **Etec de Peruíbe**
   - High School + Technical in Digital Game Programming
   - Expected Graduation: 2026
-  - Student Email: felipe.rodrigues241@etec.sp.gov.br
-    
-- 🏆 Certifications
+  - Student Email: [![Email](https://img.shields.io/badge/Email-FF0000?style=flat&logo=gmail&logoColor=white)](mailto:felipe.rodrigues241@etec.sp.gov.br)
+
+- 🏆 Certifications  
   - JavaScript Course (30 hours) - Instituto Federal do Rio Grande do Sul
   - Completion: October 2024
   - Grade: 100%
@@ -117,4 +117,3 @@ The game helps players develop:
   <sub>Let's build something amazing together! 🚀</sub>
 </div>
 
-<!-- Easter egg: Konami Code enabled! Try it out 😉 -->
