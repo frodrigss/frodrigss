@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Passionate front-end web and digital game programming student, constantly exploring the realms of technology and creativity. Currently honing my skills in JavaScript, HTML, and CSS while pursuing my studies at **Etec of Peruíbe**.
+Passionate front-end  web and digital game programming student, constantly exploring the realms of technology and creativity. Currently honing my skills in JavaScript, TypeScript, HTML, and CSS while pursuing my studies at **Etec of Peruíbe**.
 
 ### 🎓 Education
 
