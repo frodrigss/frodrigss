@@ -16,9 +16,9 @@ Passionate front-end  web and digital game programming student, constantly explo
 
 ```javascript
 const skills = {
-  languages: ['JavaScript', 'HTML', 'CSS'],
-  frameworks: ['Learning...'],
-  tools: ['Git', 'VS Code', 'Cursor'],
+  languages: ['JavaScript', 'TypeScript' , 'HTML', 'CSS'],
+  frameworks: ['Tailwind CSS'],
+  tools: ['Git', 'VS Code', 'Cursor', 'Unity'],
   interests: ['Web Development', 'Game Development']
 };
 ```
@@ -28,15 +28,12 @@ const skills = {
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
 
