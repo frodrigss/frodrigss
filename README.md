@@ -32,7 +32,7 @@ let Felipe = {
     languages: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
     tools: {
         frontend: ['React', 'Tailwind CSS'],
-        gamedev: ['Unity', 'C#'],
+        gamedev: ['Unity'],
         other: ['Git', 'VS Code', 'Cursor']
     },
     passions: ['Clean Code', 'Responsive design', 'Game mechanics'],
@@ -64,8 +64,7 @@ let Felipe = {
 - 🤝 Looking for cool projects to collaborate on
 
 ### 🌟 Project Highlights
-
-### 🎮 Pop Pop Ball
+	🎮 Pop Pop Ball
 A brief description of your game project, the technologies used, and your role in the project.
 
 [🔗 GitHub Repository](https://github.com/frodrigss/game-title)
