@@ -10,7 +10,8 @@ I'm a passionate front-end and digital game programming enthusiast. I'm always d
 
 > "Code is poetry, and I'm here to write some epic verses! 🚀"
 
-### 🎓 Education Journey
+## 🎓 Education Journey
+
 - 📚 **Etec de Peruíbe**
   - High School + Digital Game Programming Technical 
   - Expected Graduation: 2026
