@@ -3,16 +3,12 @@
 [![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=flat&logo=iCloud&logoColor=white)](mailto:soaresrodriguesf07@icloud.com)
 [![GitHub Followers](https://img.shields.io/github/followers/frodrigss?label=Follow&style=social)](https://github.com/frodrigss)
 
----
-
 ## 🎯 Who Am I?
 
 
 I'm a passionate front-end and digital game programming enthusiast. I'm always diving into the latest tech and unleashing my creativity through code. Currently sharpening my skills in **JavaScript**, **TypeScript**, **HTML**, and **CSS** while studying at **Etec de Peruíbe**.
 
 > "Code is poetry, and I'm here to write some epic verses! 🚀"
-
----
 
 ## 🎓 Education Journey
 
@@ -61,7 +57,6 @@ let Felipe = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
 </div>
 
----
 
 ## 🚀 What I'm Up To
 
