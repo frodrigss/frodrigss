@@ -13,10 +13,12 @@ I'm a passionate front-end and digital game programming enthusiast. I'm always d
 
 ## 🎓 Education Journey
 
+
 - 📚 **Etec de Peruíbe**
   - High School + Digital Game Programming Technical 
   - Expected Graduation: 2026
   - Student Email: felipe.rodrigues241@etec.sp.gov.br
+    
 - 🏆 Certifications
   - JavaScript Course (30 hours) - Instituto Federal do Rio Grande do Sul
   - Completion: October 2024
