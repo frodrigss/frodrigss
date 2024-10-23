@@ -3,6 +3,8 @@
 [![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=flat&logo=iCloud&logoColor=white)](mailto:soaresrodriguesf07@icloud.com)
 [![GitHub Followers](https://img.shields.io/github/followers/frodrigss?label=Follow&style=social)](https://github.com/frodrigss)
 
+---
+
 ## 🎯 Who Am I?
 
 
@@ -10,6 +12,7 @@ I'm a passionate front-end and digital game programming enthusiast. I'm always d
 
 > "Code is poetry, and I'm here to write some epic verses! 🚀"
 
+---
 
 ## 🎓 Education Journey
 
@@ -24,6 +27,8 @@ I'm a passionate front-end and digital game programming enthusiast. I'm always d
   - Completion: October 2024
   - Grade: 100%
   - Topics: Introduction, Events, and Form Validation
+ 
+---
 
 ## 🛠️ Tech Arsenal
 
@@ -56,24 +61,51 @@ let Felipe = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
 </div>
 
+---
+
 ## 🚀 What I'm Up To
 
-- 🎮 Building an awesome game portfolio
-- 💻 Mastering modern web frameworks
-- 🎨 Creating pixel-perfect UI designs
+- 😎 Building an awesome portfolio
+- 🕹️ Exploring the depths of **game development** with **Unity**
 - 🤝 Looking for cool projects to collaborate on
 
+---
+
 ## 🌟 Project Highlights
-🎮 Pop Pop Ball
-A brief description of your game project, the technologies used, and your role in the project.
 
-[🔗 GitHub Repository](https://github.com/frodrigss/game-title)
+### 🎮 Pop Pop Ball
+A dynamic and engaging browser-based game where players test their reflexes and precision by clicking on a moving ball. The game features progressive difficulty levels, power-ups, and a local ranking system.
+
+#### 🚀 Key Features:
+- Dynamic power-up system with various effects
+- Local ranking system to track high scores
+- Customizable ball appearance with different colors and effects
+- In-game currency system (PopCoins)
+
+#### 🛠️ Technologies Used:
+- HTML5
+- CSS3
+- JavaScript
+- Local Storage for data persistence
+
+#### 💡 Educational Value:
+The game helps players develop:
+- Hand-eye coordination
+- Quick reflexes
+- Strategic thinking
+- Time management skills
+
+[🔗 GitHub Repository](https://github.com/frodrigss/pop-pop-ball)
 [🔗 Live Demo](https://yourwebsite.com)
+*A project developed to combine entertainment with skill development, Pop Pop Ball offers an addictive gameplay experience while challenging players to improve their performance with each session.*
 
+---
 
 ## 📊 GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=frodrigss&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Felipe's GitHub Stats" />
+
+---
 
 ## 🤝 Let's Connect!
 
