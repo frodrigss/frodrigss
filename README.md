@@ -1,14 +1,10 @@
-# Hey there, I'm Felipe! 👋
-
-[![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=flat&logo=iCloud&logoColor=white)](mailto:soaresrodriguesf07@icloud.com)
-[![GitHub Followers](https://img.shields.io/github/followers/frodrigss?label=Follow&style=social)](https://github.com/frodrigss)
-
-## 🎯 Who Am I?
+<h1>Hey there, I'm Felipe! 👋</h1>
+<h3> 🎯 Who Am I? </h3>
 
 
-I'm a passionate front-end and digital game programming enthusiast. I'm always diving into the latest tech and unleashing my creativity through code. Currently sharpening my skills in **JavaScript**, **TypeScript**, **HTML**, and **CSS** while studying at **Etec de Peruíbe**.
+<p style="text-align: justify !important;">I'm a passionate front-end and digital game programming enthusiast. I'm always diving into the latest tech and unleashing my creativity through code. Currently sharpening my skills in **JavaScript**, **TypeScript**, **HTML**, and **CSS** while studying at **Etec de Peruíbe**.</p><justify
 
-> "Code is poetry, and I'm here to write some epic verses! 🚀"
+> *"Code is poetry, and I'm here to write some epic verses! 🚀"*
 
 ## 🎓 Education Journey
 
@@ -69,7 +65,7 @@ let Felipe = {
 ## 🌟 Project Highlights
 
 ### 🎮 Pop Pop Ball
-A dynamic and engaging browser-based game where players test their reflexes and precision by clicking on a moving ball. The game features progressive difficulty levels, power-ups, and a local ranking system.
+*A dynamic and engaging browser-based game where players test their reflexes and precision by clicking on a moving ball. The game features progressive difficulty levels, power-ups, and a local ranking system.*
 
 #### 🚀 Key Features:
 - Dynamic power-up system with various effects
@@ -91,8 +87,8 @@ The game helps players develop:
 - Time management skills
 
 [🔗 GitHub Repository](https://github.com/frodrigss/pop-pop-ball)
+
 [🔗 Live Demo](https://yourwebsite.com)
-*A project developed to combine entertainment with skill development, Pop Pop Ball offers an addictive gameplay experience while challenging players to improve their performance with each session.*
 
 ---
 
