@@ -54,49 +54,22 @@ const Felipe = {
 - 🎨 Creating pixel-perfect UI designs
 - 🤝 Looking for cool projects to collaborate on
 
-## 🎯 Featured Projects
-
 ### 🌟 Project Highlights
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/frodrigss/game-title">
-        <img src="game-preview.gif" width="300px" alt="Game Preview"/>
-        <br />
-        <sub><b>🎮 Epic Game Title</b></sub>
-      </a>
-      <br />
-      <sub>Unity + C# | In Development</sub>
-    </td>
-    <td align="center">
-      <a href="https://yourwebsite.com">
-        <img src="web-preview.png" width="300px" alt="Web Project"/>
-        <br />
-        <sub><b>🌐 Awesome Web Project</b></sub>
-      </a>
-      <br />
-      <sub>React + Tailwind | Live</sub>
-    </td>
-  </tr>
-</table>
+### 🎮 Pop Pop Ball
+A brief description of your game project, the technologies used, and your role in the project.
 
-## 📈 GitHub Magic
+[🔗 GitHub Repository](https://github.com/frodrigss/game-title)
+[🔗 Live Demo](https://yourwebsite.com)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frodrigss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frodrigss&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
-## 🏆 Achievement Unlocked!
+## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=frodrigss&theme=discord&column=4&margin-w=15&margin-h=15)
-
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=frodrigss&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Felipe's GitHub Stats" />
 
 ## 🤝 Let's Connect!
+
+I'm always down for interesting chats and collabs. Hit me up!
 
 <div align="center">
   
