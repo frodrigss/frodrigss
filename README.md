@@ -28,7 +28,7 @@ I'm a passionate front-end and digital game programming enthusiast. I'm always d
 ## 🛠️ Tech Arsenal
 
 ```javascript
-const Felipe = {
+let Felipe = {
     languages: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
     tools: {
         frontend: ['React', 'Tailwind CSS'],
