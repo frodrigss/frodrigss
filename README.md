@@ -56,3 +56,37 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 ---
 
 <p align="center">💼 Open to internships and junior developer positions 💼</p>
+  
+		<div class="container">
+			<div class="area">
+				<div id="ranking"></div>
+				<div class="booster"></div>
+				<div id="game-info">
+					<p id="menssagem">Pop Pop Ball!</p>
+					<span id="timer">80</span>
+					<span id="texto-tempo">segundos restantes</span>
+				</div>
+				<div id="coringa">CORINGA</div>
+				<div class="bola"></div>
+				<div id="mensagem-final"></div>
+			</div>
+			<div class="controls">
+				<div class="button-container">
+					<div class="primary-buttons">
+						<button id="play" class="game-button">Play</button>
+						<button id="home" class="game-button" onclick="home()">Home</button>
+					</div>
+				</div>
+				<div id="barra-progresso-container">
+					<div id="barra-progresso">
+						<div id="barra-progresso-inner"></div>
+					</div>
+				</div>
+				<div class="info-container">
+					<span id="level">Nível: 1</span>
+					<span id="score">Pontos: 0</span>
+				</div>
+			</div>
+		</div>
+
+
