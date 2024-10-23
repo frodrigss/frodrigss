@@ -63,7 +63,7 @@ let Felipe = {
 - 🎨 Creating pixel-perfect UI designs
 - 🤝 Looking for cool projects to collaborate on
 
-### 🌟 Project Highlights
+## 🌟 Project Highlights
 🎮 Pop Pop Ball
 A brief description of your game project, the technologies used, and your role in the project.
 
