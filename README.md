@@ -10,11 +10,13 @@ I'm a passionate front-end and digital game programming enthusiast. I'm always d
 
 > "Code is poetry, and I'm here to write some epic verses! 🚀"
 
+
 ## 🎓 Education Journey
 
 - 📚 **Etec de Peruíbe**
   - High School + Digital Game Programming Technical 
   - Expected Graduation: 2026
+  - Student Email: felipe.rodrigues241@etec.sp.gov.br
 - 🏆 Certifications
   - JavaScript Course (30 hours) - Instituto Federal do Rio Grande do Sul
   - Completion: October 2024
@@ -79,7 +81,6 @@ I'm always down for interesting chats and collabs. Hit me up!
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soaresrodriguesf07@icloud.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/felipe#1234)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.feliperos.com)
 
 </div>
