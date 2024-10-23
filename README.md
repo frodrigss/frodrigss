@@ -12,7 +12,7 @@ Hey there! I'm Felipe, a passionate front-end and digital game programming enthu
 
 ### 🎓 Education Journey
 - 📚 **Etec de Peruíbe**
-  - High School + Digital Game Programming Technical Degree
+  - High School + Digital Game Programming Technical 
   - Expected Graduation: 2026
 - 🏆 Certifications
   - JavaScript Course (30 hours) - Instituto Federal do Rio Grande do Sul
