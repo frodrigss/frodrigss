@@ -57,6 +57,9 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 <p align="center">💼 Open to internships and junior developer positions 💼</p>
   
+<html lang="pt-br">
+  
+ <body>
 		<div class="container">
 			<div class="area">
 				<div id="ranking"></div>
@@ -88,5 +91,8 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 				</div>
 			</div>
 		</div>
-
+	</body>
+	<script src="../scripts/script.js"></script>
+	
+</html>
 
