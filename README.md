@@ -1,20 +1,24 @@
 # Hey there, I'm Felipe! 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=frodrigss&color=blueviolet)](https://github.com/frodrigss)
 [![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=flat&logo=iCloud&logoColor=white)](mailto:soaresrodriguesf07@icloud.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felipesrodrigues)
 [![GitHub Followers](https://img.shields.io/github/followers/frodrigss?label=Follow&style=social)](https://github.com/frodrigss)
 
 ## 🎯 Who Am I?
 
-I'm a coding enthusiast who's super passionate about crafting awesome digital experiences! Currently leveling up my skills in front-end development and game programming at **Etec of Peruíbe**. When I'm not coding, you'll find me sketching UI designs or brainstorming the next cool game mechanic! 
+
+Hey there! I'm Felipe, a passionate front-end and digital game programming enthusiast. I'm always diving into the latest tech and unleashing my creativity through code. Currently sharpening my skills in **JavaScript**, **TypeScript**, **HTML**, and **CSS** while studying at **Etec de Peruíbe**.
 
 > "Code is poetry, and I'm here to write some epic verses! 🚀"
 
 ### 🎓 Education Journey
-- 📚 **Etec of Peruíbe**
+- 📚 **Etec de Peruíbe**
   - High School + Digital Game Programming Technical Degree
   - Expected Graduation: 2026
+- 🏆 Certifications
+  - JavaScript Course (30 hours) - Instituto Federal do Rio Grande do Sul
+  - Completion: October 2024
+  - Grade: 100%
+  - Topics: Introduction, Events, and Form Validation
 
 ## 🛠️ Tech Arsenal
 
