@@ -1,4 +1,4 @@
-# Felipe Rodrigues 👨‍💻
+# Felipe S. Rodrigues 👨‍💻
 
 [![Profile Views](https://komarev.com/ghpvc/?username=frodrigss&color=blueviolet)](https://github.com/frodrigss)
 [![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=flat&logo=iCloud&logoColor=white)](mailto:soaresrodriguesf07@icloud.com)
