@@ -2,7 +2,7 @@
 <h3> 🎯 Who Am I? </h3>
 
 
-<p style="text-align: justify !important;">I'm a passionate front-end and digital game programming enthusiast. I'm always diving into the latest tech and unleashing my creativity through code. Currently sharpening my skills in **JavaScript**, **TypeScript**, **HTML**, and **CSS** while studying at **Etec de Peruíbe**.</p><justify
+<p style="text-align: justify !important;">I'm a passionate front-end and digital game programming enthusiast. I'm always diving into the latest tech and unleashing my creativity through code. Currently sharpening my skills in **JavaScript**, **TypeScript**, **HTML**, and **CSS** while studying at **Etec de Peruíbe**.</p>
 
 > *"Code is poetry, and I'm here to write some epic verses! 🚀"*
 
