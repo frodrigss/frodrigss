@@ -65,7 +65,7 @@ let Felipe = {
 - 😎 Building an awesome portfolio
 - 🕹️ Exploring the depths of **game development** with **Unity**
 - 🤝 Looking for cool projects to collaborate on
-
+- 
 ## 🌟 Project Highlights
 
 ### 🎮 Pop Pop Ball
