@@ -1,8 +1,14 @@
-<h1>Hey there, I'm Felipe! 👋</h1>
-<h3> 🎯 Who Am I? </h3>
+# Hey there, I'm Felipe! 👋
 
+### 🎯 Who Am I?
 
-<p style="text-align: justify !important;">I'm a passionate front-end and digital game programming enthusiast. I'm always diving into the latest tech and unleashing my creativity through code. Currently sharpening my skills in **JavaScript**, **TypeScript**, **HTML**, and **CSS** while studying at **Etec de Peruíbe**.</p>
+<p align="justify">
+Hi! I'm a dedicated front-end developer and digital game programming enthusiast. <br>
+Currently pursuing a Technical in Digital Game Programming at Etec de Peruíbe.<br> 
+I continuously explore new technologies and strive to express my creativity 🧶. <br>
+Whether building responsive web applications or developing immersive games, I <br>
+aim to blend functionality with aesthetic design.
+</p>
 
 > *"Code is poetry, and I'm here to write some epic verses! 🚀"*
 
@@ -10,7 +16,7 @@
 
 
 - 📚 **Etec de Peruíbe**
-  - High School + Digital Game Programming Technical 
+  - High School + Technical in Digital Game Programming
   - Expected Graduation: 2026
   - Student Email: felipe.rodrigues241@etec.sp.gov.br
     
