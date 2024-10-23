@@ -6,7 +6,7 @@
 ## 🎯 Who Am I?
 
 
-Hey there! I'm Felipe, a passionate front-end and digital game programming enthusiast. I'm always diving into the latest tech and unleashing my creativity through code. Currently sharpening my skills in **JavaScript**, **TypeScript**, **HTML**, and **CSS** while studying at **Etec de Peruíbe**.
+I'm a passionate front-end and digital game programming enthusiast. I'm always diving into the latest tech and unleashing my creativity through code. Currently sharpening my skills in **JavaScript**, **TypeScript**, **HTML**, and **CSS** while studying at **Etec de Peruíbe**.
 
 > "Code is poetry, and I'm here to write some epic verses! 🚀"
 
