@@ -2,12 +2,12 @@
 
 ### 🎯 Who Am I?
 
-<p align="justify">
+<p align="justify"><i>
 Hi! I'm a dedicated front-end developer and digital game programming enthusiast.<br>
 Currently pursuing a Technical in Digital Game Programming at Etec de Peruíbe.<br> 
 I continuously explore new technologies and strive to express my creativity 🧶<br>
 Whether building responsive web applications or developing immersive games,<br>
-I aim to blend functionality with aesthetic design.
+I aim to blend functionality with aesthetic design.</i>
 </p>
 
 > *"Code is poetry, and I'm here to write some epic verses! 🚀"*
@@ -65,11 +65,11 @@ let Felipe = {
 - 😎 Building an awesome portfolio
 - 🕹️ Exploring the depths of **game development** with **Unity**
 - 🤝 Looking for cool projects to collaborate on
-- 
+  
 ## 🌟 Project Highlights
 
 ### 🎮 Pop Pop Ball
-*A dynamic and engaging browser-based game where players test their reflexes and precision by clicking on a moving ball. The game features progressive difficulty levels, power-ups, and a local ranking system.*
+*A dynamic and engaging browser-based game where players test their reflexes and <br>precision by clicking on a moving ball. The game features progressive difficulty levels, <br>power-ups, and a local ranking system.*
 
 #### 🚀 Key Features:
 - Dynamic power-up system with various effects
@@ -100,23 +100,19 @@ The game helps players develop:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=frodrigss&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Felipe's GitHub Stats" />
 
----
-
 ## 🤝 Let's Connect!
 
-I'm always down for interesting chats and collabs. Hit me up!
-
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soaresrodriguesf07@icloud.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.feliperos.com)
-
+  <a href="mailto:soaresrodriguesf07@icloud.com">
+    <img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" alt="iCloud">
+  </a>
+  <a href="https://www.feliperos.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
 </div>
 
----
-
 <div align="center">
-  <b>✨ Open to internships and junior dev positions! ✨</b>
+  <b>💼 Open to internships and junior dev positions 💼</b>
   <br/>
   <sub>Let's build something amazing together! 🚀</sub>
 </div>
