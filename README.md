@@ -64,7 +64,7 @@ let Felipe = {
 - 🤝 Looking for cool projects to collaborate on
 
 ### 🌟 Project Highlights
-	🎮 Pop Pop Ball
+🎮 Pop Pop Ball
 A brief description of your game project, the technologies used, and your role in the project.
 
 [🔗 GitHub Repository](https://github.com/frodrigss/game-title)
