@@ -106,7 +106,7 @@ The game helps players develop:
   <a href="mailto:soaresrodriguesf07@icloud.com">
     <img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" alt="iCloud">
   </a>
-  <a href="https://www.feliperos.com">
+  <a href="">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
 </div>
