@@ -34,8 +34,7 @@ I aim to blend functionality with aesthetic design.</i>
 let Felipe = {
     languages: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
     tools: {
-        frontend: ['React', 'Tailwind CSS'],
-        gamedev: ['Unity'],
+        gamedev: ['Unity', 'c#'],
         other: ['Git', 'VS Code', 'Cursor']
     },
     passions: ['Clean Code', 'Responsive design', 'Game mechanics'],
@@ -51,10 +50,6 @@ let Felipe = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
 </div>
