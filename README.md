@@ -34,7 +34,7 @@ I aim to blend functionality with aesthetic design.</i>
 let Felipe = {
     languages: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
     tools: {
-        gamedev: ['Unity', 'c#'],
+        gamedev: ['Unity', 'C#'],
         other: ['Git', 'VS Code', 'Cursor']
     },
     passions: ['Clean Code', 'Responsive design', 'Game mechanics'],
