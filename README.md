@@ -3,7 +3,7 @@
 ### 🎯 Who Am I?
 
 <p align="justify"><i>
-Hi! I'm a dedicated front-end developer and digital game programming enthusiast.<br>
+Hi! I'm a dedicated front-end developer and digital game programming studant.<br>
 Currently pursuing a Technical in Digital Game Programming at Etec de Peruíbe.<br> 
 I continuously explore new technologies and strive to express my creativity 🧶<br>
 Whether building responsive web applications or developing immersive games,<br>
@@ -21,8 +21,14 @@ I aim to blend functionality with aesthetic design.</i>
   - Student Email: [![Email](https://img.shields.io/badge/Email-FF0000?style=flat&logo=gmail&logoColor=white)](mailto:felipe.rodrigues241@etec.sp.gov.br)
 
 - 🏆 Certifications  
-  - JavaScript Course (30 hours) - Instituto Federal do Rio Grande do Sul
+  - JavaScript (30 hours) - Instituto Federal do Rio Grande do Sul
   - Completion: October 2024
+  - Grade: 100%
+  - Topics: Introduction, Events, and Form Validation
+ 
+- 🏆 Certifications  
+  - Programação .Net: avançado (40 hours) - Instituto Federal de Minas Gerais
+  - Completion: January 2025
   - Grade: 100%
   - Topics: Introduction, Events, and Form Validation
  
@@ -32,17 +38,19 @@ I aim to blend functionality with aesthetic design.</i>
 
 ```javascript
 let Felipe = {
-    languages: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
+    languages: ['C#', 'JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
     tools: {
-        gamedev: ['Unity', 'C#'],
-        other: ['Git', 'VS Code', 'Cursor']
+        gamedev: ['Unity', 'Construct 3'],
+        other: ['Git', '.NET', 'Cursor AI']
     },
-    passions: ['Clean Code', 'Responsive design', 'Game mechanics'],
+    passions: ['Clean Code', 'Responsive design'],
     funFact: "I can turn coffee into code! ☕→💻"
 };
 ```
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/c#-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
@@ -58,8 +66,9 @@ let Felipe = {
 ## 🚀 What I'm Up To
 
 - 😎 Building an awesome portfolio
-- 🕹️ Exploring the depths of **game development** with **Unity**
+- 🕹️ Exploring the depths of **game development** with **Unity** an **Construct**
 - 🤝 Looking for cool projects to collaborate on
+- 📚 Studying Azure and Cloud Services
   
 ## 🌟 Project Highlights
 
@@ -76,7 +85,6 @@ let Felipe = {
 - HTML5
 - CSS3
 - JavaScript
-- Local Storage for data persistence
 
 #### 💡 Educational Value:
 The game helps players develop:
@@ -100,9 +108,6 @@ The game helps players develop:
 <div align="center">
   <a href="mailto:soaresrodriguesf07@icloud.com">
     <img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" alt="iCloud">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
 </div>
 
