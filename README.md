@@ -64,6 +64,7 @@ let Felipe = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/construct/construct-original.svg" height="40" alt="Construct 3" />
+  <img width="12" />
 </div>
 
 ## 🚀 What I'm Up To
