@@ -19,13 +19,13 @@ Whether building responsive web applications with ASP.NET or developing programs
   - Student Email: [![Email](https://img.shields.io/badge/Email-FF0000?style=flat&logo=gmail&logoColor=white)](mailto:felipe.rodrigues241@etec.sp.gov.br)
 
 - 🏆 Certifications  
-  - JavaScript (30 hours) - Instituto Federal do Rio Grande do Sul
+  - JavaScript - Instituto Federal do Rio Grande do Sul
   - Completion: October 2024
   - Grade: 100%
   - Topics: Introduction, Events and Form Validation
  
 - 🏆 Certifications  
-  - Programação .Net: avançado (40 hours) - Instituto Federal de Minas Gerais
+  - Programação .Net: avançado - Instituto Federal de Minas Gerais
   - Completion: January 2025
   - Grade: 100%
   - Topics: Vector Manipulation, Matrix Manipulation, Methods and Binary & Text File Manipulation
