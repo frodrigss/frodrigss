@@ -5,7 +5,7 @@
 <p align="justify"><i>
 Hi! I'm a dedicated .NET developer and Digital Game Programming studant at Etec de Peruíbe.<br>
 I continuously explore new technologies and strive to express my creativity 🧶<br>
-Whether building responsive web applications with ASP.NET or developing programs with C#</i>
+Whether building responsive web applications or developing programs with C#</i>
 </p>
 
 > *"Code is poetry, and I'm here to write some epic verses! 🚀"*
