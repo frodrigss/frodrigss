@@ -3,18 +3,16 @@
 ### 🎯 Who Am I?
 
 <p align="justify"><i>
-Hi! I'm a dedicated front-end developer and digital game programming studant.<br>
+Hi! I'm a dedicated .NET developer and Digital Game Programming studant.<br>
 Currently pursuing a Technical in Digital Game Programming at Etec de Peruíbe.<br> 
 I continuously explore new technologies and strive to express my creativity 🧶<br>
-Whether building responsive web applications or developing immersive games,<br>
-I aim to blend functionality with aesthetic design.</i>
+Whether building responsive web applications with ASP.NET or developing programs with C#</i>
 </p>
 
 > *"Code is poetry, and I'm here to write some epic verses! 🚀"*
 
 ## 🎓 Education Journey
 
-  
 - 📚 **Etec de Peruíbe**
   - High School + Technical in Digital Game Programming
   - Expected Graduation: 2026
@@ -24,13 +22,18 @@ I aim to blend functionality with aesthetic design.</i>
   - JavaScript (30 hours) - Instituto Federal do Rio Grande do Sul
   - Completion: October 2024
   - Grade: 100%
-  - Topics: Introduction, Events, and Form Validation
+  - Topics: Introduction, Events and Form Validation
  
 - 🏆 Certifications  
   - Programação .Net: avançado (40 hours) - Instituto Federal de Minas Gerais
   - Completion: January 2025
   - Grade: 100%
-  - Topics: Introduction, Events, and Form Validation
+  - Topics: Vector Manipulation, Matrix Manipulation, Methods and Binary & Text File Manipulation
+ 
+- 🏆 Certifications  
+  - Certificado Profissional Microsoft Azure AI Essentials - LinkedIn Learning & Microsoft 
+  - Completion: September 2025
+  - Topics: Machine Learning, Microsoft Azure and Artificial Inteligence
  
 ---
 
@@ -40,10 +43,10 @@ I aim to blend functionality with aesthetic design.</i>
 let Felipe = {
     languages: ['C#', 'JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
     tools: {
+        dev: ['Git', '.NET', 'Visual Studio']
         gamedev: ['Unity', 'Construct 3'],
-        other: ['Git', '.NET', 'Cursor AI']
     },
-    passions: ['Clean Code', 'Responsive design'],
+    passions: ['Clean Code'],
     funFact: "I can turn coffee into code! ☕→💻"
 };
 ```
@@ -68,9 +71,8 @@ let Felipe = {
 ## 🚀 What I'm Up To
 
 - 😎 Building an awesome portfolio
-- 🕹️ Exploring the depths of **game development** with **Unity** an **Construct**
 - 🤝 Looking for cool projects to collaborate on
-- 📚 Studying Azure and Cloud Services
+- 📚 Studying .NET, C#, Azure and Microsoft Services
   
 ## 🌟 Project Highlights
 
@@ -114,8 +116,6 @@ The game helps players develop:
 </div>
 
 <div align="center">
-  <b>💼 Open to internships and junior dev positions 💼</b>
-  <br/>
   <sub>Let's build something amazing together! 🚀</sub>
 </div>
 
