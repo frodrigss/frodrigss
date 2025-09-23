@@ -71,7 +71,7 @@ let Felipe = {
 
 - 😎 Building an awesome portfolio
 - 🤝 Looking for cool projects to collaborate on
-- 📚 Studying .NET, C#, Azure and Microsoft Services
+- 📚 Studying .NET, ASP.NET Core, C#, Azure and Microsoft Services
   
 ## 🌟 Project Highlights
 
