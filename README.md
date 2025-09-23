@@ -42,7 +42,7 @@ Whether building responsive web applications or developing programs with C#</i>
 let Felipe = {
     languages: ['C#', 'JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
     tools: {
-        dev: ['Git', '.NET', 'Visual Studio']
+        dev: ['Git', 'GitHub', '.NET', 'ASP.NET Core', 'Visual Studio']
         gamedev: ['Unity', 'Construct 3'],
     },
     passions: ['Clean Code'],
@@ -54,6 +54,8 @@ let Felipe = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspdotnet/aspdotnet-original.svg" height="40" alt="ASP.NET Core" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
