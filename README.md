@@ -20,18 +20,22 @@ Whether building responsive web applications or developing programs with C#</i>
 - 🏆 Certifications  
   - Formação .NET Developer
   - Completion: November 2025
-  - Topics: .NET, C#, ASP.NET, Entity Framework Core, Azure, Swagger, SQL Server, Git, Github, API REST, MVC, MongoDB, NuGET, HTTP
+  - Topics: .NET, C#, ASP.NET, Entity Framework Core, Azure, Swagger, SQL Server,<br>
+    Git, Github, API REST, MVC, MongoDB, NuGET, HTTP
+  
  
 - 🏆 Certifications  
   - Bootcamp: Avanade - Back-end com .NET e IA
   - Completion:  Octuber 2025
-  - Topics: .NET, C#, ASP.NET, Entity Framework Core, Azure, Swagger, SQL Server, Git, Github, API REST, MVC, MongoDB, NuGET, AI, Docker, HTTp
+  - Topics: .NET, C#, ASP.NET, Entity Framework Core, Azure, Swagger, SQL Server,<br>
+    Git, Github, API REST, MVC, MongoDB, NuGET, AI, Docker, HTTp
 
 - 🏆 Certifications  
   - Programação .Net: avançado - Instituto Federal de Minas Gerais
   - Completion: January 2025
   - Grade: 100%
-  - Topics: Vector Manipulation, Matrix Manipulation, Methods and Binary & Text File Manipulation
+  - Topics: Vector Manipulation, Matrix Manipulation, Methods and Binary & Text<br>
+    File Manipulation
  
 - 🏆 Certifications  
   - Certificado Profissional Microsoft Azure AI Essentials - LinkedIn Learning & Microsoft 
@@ -86,7 +90,9 @@ public class FelipeProfile
 ## 🌟 Project Highlights
 
 ### 🌌 SCAI - Imperial Access Control System
-A REST API designed to manage the logistics and access control of the Galactic Empire. This project demonstrates modern architectural patterns, rigorous security, and Clean Code practices in a scalable environment.
+A REST API designed to manage the logistics and access control of the Galactic Empire.<br>
+This project demonstrates modern architectural patterns, rigorous security, and Clean Code<br>
+practices in a scalable environment.
 
 #### Features:
 - RBAC Security: Robust Role-Based Access Control (Sith, Commander, and Trooper) implemented via JWT.
