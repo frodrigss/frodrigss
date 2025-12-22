@@ -14,8 +14,8 @@ Whether building responsive web applications or developing programs with C#</i>
 
 - 📚 **Etec de Peruíbe**
   - High School + Technical in Digital Game Programming
-  - Expected Graduation: 2026
-  - Student Email: [![Email](https://img.shields.io/badge/Email-FF0000?style=flat&logo=gmail&logoColor=white)](mailto:felipe.rodrigues241@etec.sp.gov.br)
+  - Expected graduation: 2026
+  - Student email: [![Email](https://img.shields.io/badge/Email-FF0000?style=flat&logo=gmail&logoColor=white)](mailto:felipe.rodrigues241@etec.sp.gov.br)
 
 - 🏆 Certifications  
   - Formação .NET Developer
@@ -93,7 +93,7 @@ public class FelipeProfile
 - Enterprise architecture: 3-layer structure (Presentation, Domain, and Data) for maximum maintainability.
 - Automated Data Seeding: Built-in system for automatic database population for testing and staging environments.
 
-🛠️ Stack:
+#### 🛠️ Stack:
 - .NET 10 (ASP.NET Core / C# 14)
 - Entity Framework Core 10
 - SQL Server
@@ -101,12 +101,14 @@ public class FelipeProfile
 - JWT Bearer & BCrypt.Net-Next
 - Swagger / OpenAPI
 
-🛡️ Quality & Governance:
+#### 🛡️ Quality & Governance:
 The project follows strict software engineering standards:
 - Test coverage: Unit testing focused on critical business logic, reaching 86% coverage in Services.
 - Security: Digital token signing and advanced password hashing to ensure data integrity.
 - Clean Code & SOLID: Strict adherence to Object-Oriented Design principles and dependency injection.
 - API Documentation: Fully interactive documentation for seamless front-end integration.
+
+[🔗 GitHub repository](https://github.com/frodrigss/SCAI.API)
 ---
 
 ## 📊 GitHub Stats
@@ -116,7 +118,7 @@ The project follows strict software engineering standards:
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="mailto:soaresrodriguesf07@icloud.com">
+  <a href="mailto:felipe.soares.rodrigues@outlook.com">
     <img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" alt="iCloud">
   </a>
 </div>
