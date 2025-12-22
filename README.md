@@ -85,31 +85,28 @@ public class FelipeProfile
   
 ## 🌟 Project Highlights
 
-### 🎮 Pop Pop Ball
-*A dynamic and engaging browser-based game where players test their reflexes and <br>precision by clicking on a moving ball. The game features progressive difficulty levels, <br>power-ups, and a local ranking system.*
+### 🌌 SCAI - Imperial Access Control System
+*A high-performance enterprise REST API designed to manage the logistics and access control of the Galactic Empire. This project demonstrates modern architectural patterns, rigorous security, and Clean Code practices in a scalable environment.
 
-#### 🚀 Key Features:
-- Dynamic power-up system with various effects
-- Local ranking system to track high scores
-- Customizable ball appearance with different colors and effects
-- In-game currency system (PopCoins)
+#### Features:
+- RBAC Security: Robust Role-Based Access Control (Sith, Commander, and Trooper) implemented via JWT.
+- Enterprise architecture: 3-layer structure (Presentation, Domain, and Data) for maximum maintainability.
+- Automated Data Seeding: Built-in system for automatic database population for testing and staging environments.
 
-#### 🛠️ Technologies Used:
-- HTML5
-- CSS3
-- JavaScript
+🛠️ Stack:
+- .NET 10 (ASP.NET Core / C# 14)
+- Entity Framework Core 10
+- SQL Server
+- xUnit & Moq (Unit Testing)
+- JWT Bearer & BCrypt.Net-Next
+- Swagger / OpenAPI
 
-#### 💡 Educational Value:
-The game helps players develop:
-- Hand-eye coordination
-- Quick reflexes
-- Strategic thinking
-- Time management skills
-
-[🔗 GitHub Repository](https://github.com/frodrigss/pop-pop-ball)
-
-[🔗 Live Demo](https://pop-pop-ball.vercel.app)
-
+🛡️ Quality & Governance:
+The project follows strict software engineering standards:
+- Test coverage: Unit testing focused on critical business logic, reaching 86% coverage in Services.
+- Security: Digital token signing and advanced password hashing to ensure data integrity.
+- Clean Code & SOLID: Strict adherence to Object-Oriented Design principles and dependency injection.
+- API Documentation: Fully interactive documentation for seamless front-end integration.
 ---
 
 ## 📊 GitHub Stats
