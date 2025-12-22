@@ -86,7 +86,7 @@ public class FelipeProfile
 ## 🌟 Project Highlights
 
 ### 🌌 SCAI - Imperial Access Control System
-*A high-performance enterprise REST API designed to manage the logistics and access control of the Galactic Empire. This project demonstrates modern architectural patterns, rigorous security, and Clean Code practices in a scalable environment.
+A REST API designed to manage the logistics and access control of the Galactic Empire. This project demonstrates modern architectural patterns, rigorous security, and Clean Code practices in a scalable environment.
 
 #### Features:
 - RBAC Security: Robust Role-Based Access Control (Sith, Commander, and Trooper) implemented via JWT.
@@ -109,6 +109,7 @@ The project follows strict software engineering standards:
 - API Documentation: Fully interactive documentation for seamless front-end integration.
 
 [🔗 GitHub repository](https://github.com/frodrigss/SCAI.API)
+
 ---
 
 ## 📊 GitHub Stats
