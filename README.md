@@ -120,11 +120,11 @@ The project follows strict software engineering standards:
 
 <div align="center">
   <a href="mailto:felipe.soares.rodrigues@outlook.com">
-    <img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" alt="iCloud">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
   </a>
 </div>
 
 <div align="center">
-  <sub>Let's build something amazing together! 🚀</sub>
+  <sub>Let's build something amazing together!</sub>
 </div>
 
