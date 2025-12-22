@@ -3,7 +3,7 @@
 ### 🎯 Who Am I?
 
 <p align="justify"><i>
-Hi! I'm a dedicated Backend .NET developer and studant at Etec de Peruíbe.<br>
+Hi! I'm a dedicated Backend .NET developer and student at Etec de Peruíbe.<br>
 I continuously explore new technologies and strive to express my creativity 🧶<br>
 Whether building responsive web applications or developing programs with C#</i>
 </p>
@@ -26,7 +26,7 @@ Whether building responsive web applications or developing programs with C#</i>
  
 - 🏆 Certifications  
   - Bootcamp: Avanade - Back-end com .NET e IA
-  - Completion:  Octuber 2025
+  - Completion:  October 2025
   - Topics: .NET, C#, ASP.NET, Entity Framework Core, Azure, Swagger, SQL Server,<br>
     Git, Github, API REST, MVC, MongoDB, NuGET, AI, Docker, HTTp
 
