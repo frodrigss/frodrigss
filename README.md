@@ -18,11 +18,15 @@ Whether building responsive web applications or developing programs with C#</i>
   - Student Email: [![Email](https://img.shields.io/badge/Email-FF0000?style=flat&logo=gmail&logoColor=white)](mailto:felipe.rodrigues241@etec.sp.gov.br)
 
 - 🏆 Certifications  
-  - JavaScript - Instituto Federal do Rio Grande do Sul
-  - Completion: October 2024
-  - Grade: 100%
-  - Topics: Introduction, Events and Form Validation
+  - Formação .NET Developer
+  - Completion: November 2025
+  - Topics: .NET, C#, ASP.NET, Entity Framework Core, Azure, Swagger, SQL Server, Git, Github, API REST, MVC, MongoDB, NuGET, HTTP
  
+- 🏆 Certifications  
+  - Bootcamp: Avanade - Back-end com .NET e IA
+  - Completion:  Octuber 2025
+  - Topics: .NET, C#, ASP.NET, Entity Framework Core, Azure, Swagger, SQL Server, Git, Github, API REST, MVC, MongoDB, NuGET, AI, Docker, HTTp
+
 - 🏆 Certifications  
   - Programação .Net: avançado - Instituto Federal de Minas Gerais
   - Completion: January 2025
@@ -38,9 +42,9 @@ Whether building responsive web applications or developing programs with C#</i>
 
 ## 🛠️ Tech Arsenal
 
-```javascript
+```csharp
 let Felipe = {
-    languages: ['C#', 'JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
+    languages: ['C#', 'JavaScript', 'HTML5', 'CSS3'],
     tools: {
         dev: ['Git', 'GitHub', '.NET Core', 'ASP.NET Core', 'Visual Studio']
         gamedev: ['Unity', 'Construct 3'],
