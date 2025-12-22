@@ -43,15 +43,25 @@ Whether building responsive web applications or developing programs with C#</i>
 ## 🛠️ Tech Arsenal
 
 ```csharp
-let Felipe = {
-    languages: ['C#', 'JavaScript', 'HTML5', 'CSS3'],
-    tools: {
-        dev: ['Git', 'GitHub', '.NET Core', 'ASP.NET Core', 'Visual Studio']
-        gamedev: ['Unity', 'Construct 3'],
-    },
-    passions: ['Clean Code'],
-    funFact: "I can turn coffee into code! ☕→💻"
-};
+public class FelipeProfile
+{
+    public string Name => "Felipe";
+
+    // Tech Stack
+    public List<string> Languages => ["C#", "JavaScript", "HTML5", "CSS3"];
+    
+    public object Tools => new 
+    {
+        Dev = new[] { "Git", "GitHub", ".NET", "ASP.NET Core", "EF Core", "Visual Studio" },
+        Cloud = new[] { "Azure", "SQL Server" },
+    };
+
+    // Skills & Preferences
+    public string[] Passions => ["Clean Code", "Software Architecture", "TDD"];
+    public string Security => "JWT (JSON Web Token)";
+    
+    public string FunFact => "I can turn coffee into code! ☕→💻";
+}
 ```
 
 <div align="left">
