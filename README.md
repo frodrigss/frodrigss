@@ -3,7 +3,7 @@
 ### 🎯 Who Am I?
 
 <p align="justify"><i>
-Hi! I'm a dedicated .NET developer and Digital Game Programming studant at Etec de Peruíbe.<br>
+Hi! I'm a dedicated Backend .NET developer and studant at Etec de Peruíbe.<br>
 I continuously explore new technologies and strive to express my creativity 🧶<br>
 Whether building responsive web applications or developing programs with C#</i>
 </p>
