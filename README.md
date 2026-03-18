@@ -182,7 +182,7 @@ SCAI demonstrates modern backend architecture applied to a domain-driven scenari
 
 <div align="left">
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frodrigss/SCAI.API)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-felipesr/SCAI.API)
 [![Live API Docs](https://img.shields.io/badge/Swagger-Live_Docs-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://scai-api.azurewebsites.net/swagger/index.html)
 
 </div>
