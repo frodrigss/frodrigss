@@ -222,7 +222,7 @@ _Expected graduation: December 2026_
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=frodrigss&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Felipe's GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-felipesr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Felipe's GitHub Stats" />
 &nbsp;
 
 </div>
@@ -239,7 +239,7 @@ _Expected graduation: December 2026_
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=frodrigss&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-felipesr&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
 
 </div>
 
