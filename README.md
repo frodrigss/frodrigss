@@ -218,33 +218,6 @@ _Expected graduation: December 2026_
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-felipesr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Felipe's GitHub Stats" />
-&nbsp;
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-felipesr&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
-
-
-</div>
-
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-felipesr&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
